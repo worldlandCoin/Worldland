@@ -1,7 +1,5 @@
 
-The First Blockchain Platform For Real Estate
-Worldland | Blockchain Platform For Real Estate
-WORLDLAND Platform
+Worldland | Blockchain Platform For Real Estate <br>
 WORLDLAND is addressing two of the most pertinent problems in real estate with its decentralized blockchain platform: Tokenized Ownership and global P2P Rentals.
 ----------------------------
 WorldLand development tree
